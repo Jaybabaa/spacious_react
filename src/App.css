@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.my-edit{
+  border-radius: 18px;
+  box-shadow: 0 4px 5px grey;
+}
+
+.go {
+  width: 100%;
+}
+
+.come {
+  width: 25% !important;
+}
+
+
+
+@media (max-width: 425px) {
+  .row {
+    margin-left: 0 !important;
+  }
+  .come {
+    width: 80% !important;
+  }
+  
+  
+}
+
+@media (max-width: 375px) {
+  .will {
+    padding-left: 1rem !important;
+  }
+}
