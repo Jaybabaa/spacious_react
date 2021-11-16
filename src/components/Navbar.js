@@ -4,7 +4,7 @@ import Nav from 'react-bootstrap/Nav'
 const Navbar = () => {
     return (
         <div className="Navbar ps-5 will pt-2 ">
-            <Nav variant="pills" defaultActiveKey="/home">
+            <Nav variant="pills" defaultActiveKey="/">
                 <Nav.Item>
                     <Nav.Link href="/Planets" className="bg-light text-black fw-bold opacity-75">PLANETS</Nav.Link>
                 </Nav.Item>
