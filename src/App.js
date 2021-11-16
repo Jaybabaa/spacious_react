@@ -25,8 +25,8 @@ function App() {
           <Header/>
           <Navbar/>
           <Routes>
-                <Route exact path='/Planets' element={<Planets />} />
-                <Route exact path='/Characters' element={<Characters />} />
+                <Route exact path='/' element={<Planets/>} />
+                <Route exact path='/Characters' element={<Characters/>} />
           </Routes>
         </div>
     </Router>
