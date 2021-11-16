@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/spacious_react/static/css/main.1cce9516.chunk.css",
-    "main.js": "/spacious_react/static/js/main.f4e41ba7.chunk.js",
-    "main.js.map": "/spacious_react/static/js/main.f4e41ba7.chunk.js.map",
+    "main.css": "/spacious_react/static/css/main.617a2660.chunk.css",
+    "main.js": "/spacious_react/static/js/main.786db362.chunk.js",
+    "main.js.map": "/spacious_react/static/js/main.786db362.chunk.js.map",
     "runtime-main.js": "/spacious_react/static/js/runtime-main.4f916c3f.js",
     "runtime-main.js.map": "/spacious_react/static/js/runtime-main.4f916c3f.js.map",
     "static/css/2.383c0125.chunk.css": "/spacious_react/static/css/2.383c0125.chunk.css",
-    "static/js/2.f27b9549.chunk.js": "/spacious_react/static/js/2.f27b9549.chunk.js",
-    "static/js/2.f27b9549.chunk.js.map": "/spacious_react/static/js/2.f27b9549.chunk.js.map",
+    "static/js/2.b07d3d10.chunk.js": "/spacious_react/static/js/2.b07d3d10.chunk.js",
+    "static/js/2.b07d3d10.chunk.js.map": "/spacious_react/static/js/2.b07d3d10.chunk.js.map",
     "index.html": "/spacious_react/index.html",
     "static/css/2.383c0125.chunk.css.map": "/spacious_react/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.1cce9516.chunk.css.map": "/spacious_react/static/css/main.1cce9516.chunk.css.map",
-    "static/js/2.f27b9549.chunk.js.LICENSE.txt": "/spacious_react/static/js/2.f27b9549.chunk.js.LICENSE.txt",
+    "static/css/main.617a2660.chunk.css.map": "/spacious_react/static/css/main.617a2660.chunk.css.map",
+    "static/js/2.b07d3d10.chunk.js.LICENSE.txt": "/spacious_react/static/js/2.b07d3d10.chunk.js.LICENSE.txt",
     "static/media/character-1.fadfa678.png": "/spacious_react/static/media/character-1.fadfa678.png",
     "static/media/character-2.323d7c56.png": "/spacious_react/static/media/character-2.323d7c56.png",
     "static/media/character-3.6859fefd.png": "/spacious_react/static/media/character-3.6859fefd.png",
@@ -29,13 +29,14 @@
     "static/media/planet-6.d9d90621.svg": "/spacious_react/static/media/planet-6.d9d90621.svg",
     "static/media/planet-7.39c50f7e.svg": "/spacious_react/static/media/planet-7.39c50f7e.svg",
     "static/media/planet-8.c4654093.svg": "/spacious_react/static/media/planet-8.c4654093.svg",
-    "static/media/planet-9.5390c8f5.svg": "/spacious_react/static/media/planet-9.5390c8f5.svg"
+    "static/media/planet-9.5390c8f5.svg": "/spacious_react/static/media/planet-9.5390c8f5.svg",
+    "static/media/planet-loader.b992065d.svg": "/spacious_react/static/media/planet-loader.b992065d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4f916c3f.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.f27b9549.chunk.js",
-    "static/css/main.1cce9516.chunk.css",
-    "static/js/main.f4e41ba7.chunk.js"
+    "static/js/2.b07d3d10.chunk.js",
+    "static/css/main.617a2660.chunk.css",
+    "static/js/main.786db362.chunk.js"
   ]
 }
